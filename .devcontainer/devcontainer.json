@@ -12,8 +12,8 @@
                 "ms-vscode.powershell",
                 "hashicorp.terraform",
                 "esbenp.prettier-vscode",
-                "tfsec.tfsec",
-                "ms-dotnettools.csharp"
+                "tfsec.tfsec"
+                
             ]
         }
     },
@@ -39,7 +39,7 @@
         "azure-cli": "latest",
         "git-lfs": "latest",
         "github-cli": "latest",
-        "powershell": "latest",
-        "dotnet": "8.0"
+        "powershell": "latest"
+        
     }
 }
